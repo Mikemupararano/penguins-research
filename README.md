@@ -15,36 +15,18 @@ This app uses seaborn for data visualisation. The code will load the penguins da
   - [Questions](#questions)
 
 ## Installation
-How to install Python in terminal?
-Step 1: Download the Python installer. Visit the official Python website and download the latest version of Python 3.x for Windows. ...
-Step 2: Run the Installer. ...
-Step 3: Customize the Installation (Optional) ...
-Step 4: Install Python. ...
-Step 5: Verify the installation.
-
-How to add pip to path Python?
-How to Add Python Pip to Path
-Locate pip Installation:
-Modify the PATH Environment Variable for this session:
-Modify the PATH Environment Variable permanently:
-Verify the Modification:
-Locate pip Installation:
-Modify the PATH Environment Variable:
-Add the Path to the Environment Variables:
-Verify the Modification:
-
+pip install pandas
+pip install jupyter
+pip install seaborn
+pip install matplotlib
 
 ## Usage
 
-A screenshot of the names list is shown here:
+A screenshot of the paitplots shown here:
 
-![A screenshot :](./namescreenshot.png)
+![A screenshot :](./penguin-research-screenshot.png)
 
-A screenshot of the birth of dates list is shown here:
-
-![A screenshot :](./birthdate-screenshot.png)
-
-The repository can be accessed using this link:https://github.com/Mikemupararano/file-io-operations.
+The repository can be accessed using this link:https://github.com/Mikemupararano/penguins-research.
 
 ## License
 This application is covered under the MIT license.
@@ -53,7 +35,8 @@ This application is covered under the MIT license.
  N/A
 
 ## Credits
-N/A
+https://seaborn.pydata.org/installing.html
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
 ## Tests
 N/A
 
